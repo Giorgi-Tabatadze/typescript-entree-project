@@ -1,2 +1,1 @@
-# typescript-entree-project
-entry level project for learning vanilla typescript 
+entry level project for learning vanilla typescript
